@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Grade Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 10px auto;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        thead {
+            background-color: #C2381D;
+        }
+        tfoot {
+            background-color: #C2381D;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+
+<h2 style="text-align:center;">STUDENT GRADE TABLE</h2>
+
+    <h2>HOBBIES (Ordered List)</h2>
+    <ol>
+        <li>BADMINTON</li>
+        <li>MUSICS</li>
+        <li>ARTS</li>
+    </ol>
+
+    <h2>Grading Components (Unordered List)</h2>
+    <ul>
+        <li>Quizzes</li>
+        <li>Assignments</li>
+        <li>Examinations</li>
+    </ul>
+
+<table>
+    <thead>
+        <tr>
+            <th>SUBJECT CODE</th>
+            <th>COURSE</th>
+            <th>GRADE</th>
+            <th>INSTRUCTOR</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td><h4>MATH100</h4></td>
+            <td>CALCULUS 1</td>
+            <td>1.50</td>
+            <td>RONIL ABIS</td>
+        </tr>
+        <tr>
+            <td><h4>CC6101</h4></td>
+            <td>COMPUTING FUNDAMENTALS</td>
+            <td>1.5</td>
+            <td>VEDINIO ABANILLA</td>
+        </tr>
+        <tr>
+            <td><h4>CC6102</h4></td>
+            <td>COMPUTER PROGRAMMING</td>
+            <td>2.75</td>
+            <td>JOVELYN LUMAGTUG</td>
+        </tr>
+        <tr>
+            <td><h4>GE6100</h4></td>
+            <td>UNDERSTANDING THE SELF</td>
+            <td>1.75</td>
+            <td>JAMES JOEWEL VILDOSOLA</td>
+        </tr>
+        <tr>
+            <td><h4>GE6106</h4></td>
+            <td>PURPOSIVE COMMUNICATION</td>
+            <td>2.75</td>
+            <td>ANGEL CARIN MANGUBAT</td>
+        </tr>
+        <tr>
+            <td><h4>EUTHIN50102</h4></td>
+            <td>EUTHENICS 1</td>
+            <td>1.25</td>
+            <td>NANETTE UMPANGOG</td>
+        </tr>
+        <tr>
+            <td><h4>GE6116</td>
+            <td>Science, Technology & Society</td>
+            <td>1.50</td>
+            <td>BELAN GULLIMAS</td>
+        </tr>
+        <tr>
+            <td><h4>GE6103</h4></td>
+            <td>LIVING IN THE I.T ERA</td>
+            <td>1.25</td>
+            <td>RONIL ABIS</td>
+        </tr>
+    
+           </tbody>
+           </tfoot>
+           </table>             
+                            
+    </body>
+    </tfoot>
+</table>
+<head>
+<body>
+
+<h2 style="text-align:center;">CERTIFICATE TO TRANSFER</h2>
+
+<h2 style="text-align:center;">NAME: AUSTRIA, DIVINE Z.</h2>
+<h2 style="text-align:center;">Eligible for Admission to: FIRST YEAR COLLEGE / 2ND SEMESTER</h2>
+<ul><h2 style="text-decoration: underline;">SECTION: BSIT-11A</h2></ul>
+
+</body>
+</html>
